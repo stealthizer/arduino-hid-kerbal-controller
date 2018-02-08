@@ -31,4 +31,4 @@ And unplug/plug the device again.
 
 As for the wiring, the project is very simple. It's just a push butthon attached to a pin.
 
-![alt text](https://github.com/stealthizer/images/Kerbal.png "Arduino Kerbal Controller")
+![alt text](https://github.com/stealthizer/raw/master/images/Kerbal.png "Arduino Kerbal Controller")
